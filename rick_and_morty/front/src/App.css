@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-image: url('./Components/Imagenes/Fondo.jpg');
+  
+}
